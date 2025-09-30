@@ -1,5 +1,5 @@
 # MyStorage
 
-Self-Hosted Storage solution built using React and Javascript
+Self-Hosted Storage solution built using ReactJS, TypeScript and TailwindCSS
 
 ### Temporary Readme
